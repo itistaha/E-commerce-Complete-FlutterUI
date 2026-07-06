@@ -1,20 +1,5 @@
 # Flutter E-Commerce App Template
 
-<p align="center">
-  <img src="readme%20image/Build%20you%20shop%20app%20in%20days.png" alt="Build you shop app in days" style="width: 500px; height: auto;">
-</p>
-
-
-
-<!-- Buttons -->
-<p align="center">
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
-
-<!-- Device image -->
-</br >
 </br >
 <p align="center">
   <img src="readme image/Device_frame.png" alt="Ecommerce app Home, product details page" style="width: 1100px; height: auto;">
