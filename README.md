@@ -180,4 +180,3 @@ As mentioned, this kit contains 100+ nicely crafted minimal screens that cover e
 and MORE!!!! 🤩
 
 
-> This project demonstrates the type of application we can build for clients.
