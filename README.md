@@ -1,4 +1,4 @@
-# Flutter E-Commerce App Template
+# Flutter E-Commerce App
 
 </br >
 <p align="center">
@@ -7,7 +7,7 @@
 </br >
 </br >
 
-This shop app template comes with 100+ screens. Some of these pages are Splash, Login, Signup, Home, Product, Search, Cart, Profile, Payment, Wallet, Order Tracking, and Order History. Additionally, all pages support both light and dark themes.You just need to connect the UI to your preferred backend, such as Firebase, WordPress, or your custom API. You can do anything you want with it.
+This shop app comes with 100+ screens. Some of these pages are Splash, Login, Signup, Home, Product, Search, Cart, Profile, Payment, Wallet, Order Tracking, and Order History. Additionally, all pages support both light and dark themes.You just need to connect the UI to your preferred backend, such as Firebase, WordPress, or your custom API. You can do anything you want with it.
 
 <!-- Gif preview -->
 </br >
@@ -20,7 +20,7 @@ This shop app template comes with 100+ screens. Some of these pages are Splash, 
 
 ### Well organized project very easy to customize
 
-![FlutterShop E-commerce Template Project Structure](https://public-files.gumroad.com/v1kbfvdugf3urvw03qrqgmc5pl1c)
+![FlutterShop E-commerce Project Structure](https://public-files.gumroad.com/v1kbfvdugf3urvw03qrqgmc5pl1c)
 
 <!-- Full preview -->
 </br >
@@ -34,7 +34,7 @@ This shop app template comes with 100+ screens. Some of these pages are Splash, 
 The progress indicator that comes with Flutter, by default is okay in most places, but not in every place. Especially when you build an ecommerce app. This is why we have created a custom loading effect that boosts your user engagement even during the loading process. This kind of loading is common in popular apps like YouTube and LinkedIn. It's a small detail, but it makes a big difference.
 ![FlutterShop Custom loading](https://public-files.gumroad.com/qqnmt9nu5677thkq1961tlwj405u)
 
-## Screens on the FlutterShop E-commerce Template
+## Screens on the FlutterShop E-commerce 
 
 As mentioned, this kit contains 100+ nicely crafted minimal screens that cover everything you need!👇
 
